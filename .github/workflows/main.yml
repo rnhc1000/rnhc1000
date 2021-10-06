@@ -27,6 +27,6 @@ jobs:
         uses: dailydotdev/action-devcard@2.0.2
       # Runs a single command using the runners shell
         with:
-               devcard_id: ${{ secrets.862599f4777c4f3ca1263d4114e29dd0 }}
+               devcard_id: ${{ secrets.DEVCARD_ID }}
    
 
