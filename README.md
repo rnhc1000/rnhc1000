@@ -18,5 +18,5 @@ I am a Sr Software Engineer who loves to design, code and deploy business applic
   <img src="https://github-readme-stats.vercel.app/api?username=rnhc1000&show_icons=true" />
 </picture>
 
-[![Ricardo Ferreira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rnhc1000)](https://github.com/rnhc1000/github-readme-stats)
+[![Ricardo Ferreira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rnhc1000@hotmail.com)](https://github.com/rnhc1000/github-readme-stats)
 
