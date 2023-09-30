@@ -1,4 +1,4 @@
-## Hi! Have you already coded today?! :superhero:
+## Hi! Have you already coded today?! :superhero: :brazil:
 
 ![](https://ferreiras.dev.br/assets/images/gitHub/shutterstock_72897715.jpg)
 
