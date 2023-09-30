@@ -1,3 +1,4 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
 
 <a href="https://ferreiras.dev.br"><img src="https://ferreiras.dev.br/assets/images/gitHub/shutterstock_72897715.jpg" width="1000" height="667" alt="Ricardo Alves Ferreira Silva"/></a>
