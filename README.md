@@ -10,18 +10,11 @@ I am a Full Stack Software Engineer :hammer_and_wrench: who loves to design, cod
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnhc1000&layout=compact&theme=dark)](https://github.com/rnhc1000/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rnhc1000&theme=dark)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rnhc1000&theme=gruvbox&border=EB9119)](https://git.io/streak-stats)
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rnhc1000&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rnhc1000&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rnhc1000&show_icons=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rnhc1000&show_icons=true&theme=dark" />
 </picture>
 
 
